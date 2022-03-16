@@ -1,0 +1,1 @@
+alert('Sóc una funció');
